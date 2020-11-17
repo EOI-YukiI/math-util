@@ -20,11 +20,7 @@ public class MathUtil {
 
         
         System.out.println(MathUtility.getFactorial(5));
-        System.out.println(MathUtility.getFactorial(1));
-        System.out.println(MathUtility.getFactorial(15));
-        System.out.println(MathUtility.getFactorial(-1));
-        System.out.println(MathUtility.getFactorial(30));
-        System.out.println(MathUtility.getFactorial(15));
+
     }
 
 }
