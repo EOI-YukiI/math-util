@@ -20,6 +20,8 @@ public class MathUtil {
 
         
         System.out.println(MathUtility.getFactorial(5));
+        
+        System.out.println("CI for today.");
 
     }
 
