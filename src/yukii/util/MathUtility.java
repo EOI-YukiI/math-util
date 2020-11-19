@@ -44,7 +44,7 @@ public class MathUtility {
             //mình chửi luôn
         }
         
-        if (n == 1 || n == 1) {
+        if (n == 1 || n == 0) {
             return 1;
             //sống sót đến dây n > 1 và <= 20 rồi
         }
