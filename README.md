@@ -8,6 +8,6 @@
 * ...
 
 ### Connect me via:
-[My Facebook](https://www.facebook.com/eoi.yuki.i)
+[Facebook](https://www.facebook.com/eoi.yuki.i)
 
-#### © 2020 by yuki.i
+#### © 2020 by Yuki.I
